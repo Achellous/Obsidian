@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prüfungsvorbereitung-Teil 1/Lernfeld 9/Cisco.md",
+                "file": "Prüfungsvorbereitung-Teil 1/Sozialkunde/Berufsbildungsgesetz.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prüfungsvorbereitung-Teil 1/Lernfeld 9/Cisco.md",
+                "file": "Prüfungsvorbereitung-Teil 1/Sozialkunde/Berufsbildungsgesetz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prüfungsvorbereitung-Teil 1/Lernfeld 9/Cisco.md",
+                "file": "Prüfungsvorbereitung-Teil 1/Sozialkunde/Berufsbildungsgesetz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prüfungsvorbereitung-Teil 1/Lernfeld 9/Cisco.md"
+                "file": "Prüfungsvorbereitung-Teil 1/Sozialkunde/Berufsbildungsgesetz.md"
               }
             }
           }
@@ -148,8 +148,18 @@
   },
   "active": "ebe08567977bbd0d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Prüfungsvorbereitung-Teil 1/Sozialkunde/Themen der Klassenarbeit 11.12.2023.md",
+    "Prüfungsvorbereitung-Teil 1/Sozialkunde/Sozialkunde.md",
+    "Prüfungsvorbereitung-Teil 1/Sozialkunde/Besitz und Eigentum.md",
+    "Prüfungsvorbereitung-Teil 1/Sozialkunde/Berufsbildungsgesetz.md",
+    "Untitled.canvas",
+    "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/WLAN/MAC-Filter (Media Access Control).md",
+    "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/WLAN/SSID.md",
+    "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/WLAN.md",
+    "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/WLAN",
+    "Prüfungsvorbereitung-Teil 1/AP1/Inhalte IT-Sicherheit.md",
     "Prüfungsvorbereitung-Teil 1/Lernfeld 9/Cisco.md",
+    "conflict-files-obsidian-git.md",
     "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/Schutzziele.md",
     "AP1/IT-Sicherheit.md",
     "Prüfungsvorbereitung-Teil 1/Lernfeld 9/Cisco Config CheatSheet.md",
@@ -159,11 +169,9 @@
     "Prüfungsvorbereitung-Teil 1/Lernfeld 9/DNS.md",
     "Prüfungsvorbereitung-Teil 1/Lernfeld 9/Bilder/switch_logik.png",
     "Prüfungsvorbereitung-Teil 1/Lernfeld 9/Bilder/modi_uebersicht_router.png",
-    "Prüfungsvorbereitung-Teil 1/AP1/Inhalte IT-Sicherheit.md",
     "repo",
     "New folder",
     "2023-11-15.md",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "AP1"
   ]

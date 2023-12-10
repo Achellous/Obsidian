@@ -11,8 +11,12 @@
             "id": "222cd49819a4209e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CBS/Sozialkunde/Bedürfnisse - Bedarf - Nachfrage.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBS/Lernfeld 9/Bilder/switch_logik.png",
+                "file": "CBS/Sozialkunde/Bedürfnisse - Bedarf - Nachfrage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBS/Lernfeld 9/Bilder/switch_logik.png",
+                "file": "CBS/Sozialkunde/Bedürfnisse - Bedarf - Nachfrage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBS/Lernfeld 9/Bilder/switch_logik.png"
+                "file": "CBS/Sozialkunde/Bedürfnisse - Bedarf - Nachfrage.md"
               }
             }
           }
@@ -142,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38f16d79a6975eb8",
+  "active": "222cd49819a4209e",
   "lastOpenFiles": [
+    "CBS/Sozialkunde/Besitz und Eigentum.md",
+    "CBS/Sozialkunde/Bedürfnisse - Bedarf - Nachfrage.md",
+    "CBS/Sozialkunde/Berufsbildungsgesetz.md",
+    "CBS/Lernfeld 9/Bilder/switch_logik.png",
     "CBS/Lernfeld 9/Bilder/modi_uebersicht_router.png",
     "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/WLAN/SSID.md",
     "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/WLAN/MAC-Filter (Media Access Control).md",
@@ -155,11 +163,9 @@
     "Prüfungsvorbereitung-Teil 1/Protokolle/TCP.md",
     "CBS",
     "Prüfungsvorbereitung-Teil 1/CBS",
-    "CBS/Sozialkunde/Besitz und Eigentum.md",
     "CBS/Sozialkunde/Werbung.md",
     "CBS/Sozialkunde/Themen der Klassenarbeit 11.12.2023.md",
     "CBS/Sozialkunde/Mutterschutz.md",
-    "CBS/Sozialkunde/Berufsbildungsgesetz.md",
     "Prüfungsvorbereitung-Teil 1/Sozialkunde/Sozialkunde.md",
     "Prüfungsvorbereitung-Teil 1/Sozialkunde/Externe Sourcen/Mutterschutz.md",
     "CBS/Sozialkunde/Externe Sourcen/82316_sowirp_lb1_besitz_eigentum_arbeitsblatt.pdf",
@@ -174,7 +180,6 @@
     "Obsidian/CloudsOfMind-master",
     "Obsidian",
     "CBS/Lernfeld 9/DNS.md",
-    "CBS/Lernfeld 9/Bilder/switch_logik.png",
     "repo",
     "New folder",
     "2023-11-15.md",

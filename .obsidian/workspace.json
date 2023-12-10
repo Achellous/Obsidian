@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cfef65a19bbd0948",
+        "id": "c4268e239ffe51e9",
         "type": "tabs",
         "children": [
           {
-            "id": "ebe08567977bbd0d",
+            "id": "222cd49819a4209e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/WLAN/SSID.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/WLAN/SSID.md",
+                "file": "CBS/Lernfeld 9/Bilder/switch_logik.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/WLAN/SSID.md",
+                "file": "CBS/Lernfeld 9/Bilder/switch_logik.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/WLAN/SSID.md"
+                "file": "CBS/Lernfeld 9/Bilder/switch_logik.png"
               }
             }
           }
@@ -146,33 +142,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebe08567977bbd0d",
+  "active": "38f16d79a6975eb8",
   "lastOpenFiles": [
+    "CBS/Lernfeld 9/Bilder/modi_uebersicht_router.png",
+    "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/WLAN/SSID.md",
     "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/WLAN/MAC-Filter (Media Access Control).md",
-    "Prüfungsvorbereitung-Teil 1/Sozialkunde/Besitz und Eigentum.md",
-    "Prüfungsvorbereitung-Teil 1/Sozialkunde/Werbung.md",
-    "Prüfungsvorbereitung-Teil 1/Sozialkunde/Themen der Klassenarbeit 11.12.2023.md",
-    "Prüfungsvorbereitung-Teil 1/Sozialkunde/Mutterschutz.md",
-    "Prüfungsvorbereitung-Teil 1/Sozialkunde/Berufsbildungsgesetz.md",
+    "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/Schutzziele.md",
+    "Prüfungsvorbereitung-Teil 1/Protokolle/Grunddateneinheiten.md",
+    "Prüfungsvorbereitung-Teil 1/Protokolle/Protokolle.md",
+    "Prüfungsvorbereitung-Teil 1/Protokolle/UDP.md",
     "Untitled.canvas",
+    "Prüfungsvorbereitung-Teil 1/Protokolle/TCP.md",
+    "CBS",
+    "Prüfungsvorbereitung-Teil 1/CBS",
+    "CBS/Sozialkunde/Besitz und Eigentum.md",
+    "CBS/Sozialkunde/Werbung.md",
+    "CBS/Sozialkunde/Themen der Klassenarbeit 11.12.2023.md",
+    "CBS/Sozialkunde/Mutterschutz.md",
+    "CBS/Sozialkunde/Berufsbildungsgesetz.md",
     "Prüfungsvorbereitung-Teil 1/Sozialkunde/Sozialkunde.md",
     "Prüfungsvorbereitung-Teil 1/Sozialkunde/Externe Sourcen/Mutterschutz.md",
-    "Prüfungsvorbereitung-Teil 1/Sozialkunde/Externe Sourcen/82316_sowirp_lb1_besitz_eigentum_arbeitsblatt.pdf",
-    "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/WLAN/SSID.md",
+    "CBS/Sozialkunde/Externe Sourcen/82316_sowirp_lb1_besitz_eigentum_arbeitsblatt.pdf",
     "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/WLAN.md",
     "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/WLAN",
     "Prüfungsvorbereitung-Teil 1/AP1/Inhalte IT-Sicherheit.md",
-    "Prüfungsvorbereitung-Teil 1/Lernfeld 9/Cisco.md",
+    "CBS/Lernfeld 9/Cisco.md",
     "conflict-files-obsidian-git.md",
-    "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/Schutzziele.md",
     "AP1/IT-Sicherheit.md",
-    "Prüfungsvorbereitung-Teil 1/Lernfeld 9/Cisco Config CheatSheet.md",
+    "CBS/Lernfeld 9/Cisco Config CheatSheet.md",
     "Obsidian/CloudsOfMind-master/Protokolle",
     "Obsidian/CloudsOfMind-master",
     "Obsidian",
-    "Prüfungsvorbereitung-Teil 1/Lernfeld 9/DNS.md",
-    "Prüfungsvorbereitung-Teil 1/Lernfeld 9/Bilder/switch_logik.png",
-    "Prüfungsvorbereitung-Teil 1/Lernfeld 9/Bilder/modi_uebersicht_router.png",
+    "CBS/Lernfeld 9/DNS.md",
+    "CBS/Lernfeld 9/Bilder/switch_logik.png",
     "repo",
     "New folder",
     "2023-11-15.md",

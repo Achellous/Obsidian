@@ -111,13 +111,25 @@ Arbeitsschutzgesetz
 
     Beispielsweise einem Handwerksmeister, der eine Fortbildung zum Betriebswirt gemacht hat. Er darf dann den Zusatz „ **Master Professional** in Betriebswirtschaftslehre“ tragen. Der „Master Professional“ ist gleichwertig mit den Bezeichnungen von Hochschulabschlüssen „Master of Arts, Master of Science, Master of Education“ (§ 53a BBiG)
 ## Aufgabe 17
+
 20. **Wieso ist im neuen BBiG (§ 5 BBiG) die Durchlässigkeit innerhalb der beruflichen Bildung verbessert worden?
 
     Flexibilität und Anpassungsfähigkeit, Förderung von Aufstiegschancen, Anerkennung von Qualifikationen, Praxisbezug und Effizienz.
 ## Aufgabe 18
+
 21. **Welche Vorteile hat ein Auszubildender bei aufeinander aufbauenden zwei- und dreijährigen Berufen?
 
-    
+    Hat ein/e Auszubildende/r eine zweijährige Ausbildung erfolgreich abgeschlossen, so kann er/sie sich vom **theoretischen Prüfung eines ähnlichen Ausbildungsberufs** befreien lassen.
+## Aufgabe 19 
+
+22. **Die Möglichkeit, eine Berufsausbildung in Teilzeit machen zu können, ist im neuen BBiG gestärkt worden. Früher konnten in der Regel nur Leistungsstarke die Teilzeitberufsausbildung wahrnehmen, die ein sogenanntes berechtigtes Interesse nachweisen konnten, zum Beispiel, wenn Auszubildende ein eigenes Kind oder einen pflegebedürftigen Angehörigen zu betreuen hatten. Was hat sich diesbezüglich in der Novellierung von 2020 verändert (§ 7 BBiG)?
+
+    Allgemeiner Anspruch auf Teilzeitausbildung, Erweiterter Kreis der Berechtigten, Flexibilität und individuelle Entscheidung. 
+## Aufgabe 20
+
+23. **Welche Ausbildungsmittel muss der Ausbildende (Betrieb) dem Auszubildenden kostenlos zur Verfügung stellen?
+
+    Berufsschulunterrichtsmittel, Arbeitskleidung und Schutzausrüstung, Werkzeuge und Arbeitsmittel, Lern- und Lehrmaterialien. 
 
 
 

@@ -32,7 +32,22 @@ Arbeitsschutzgesetz
 	
 8. **Was gilt in Bezug auf die Höhe der Ausbildungsvergütung, wenn ein Ausbildungsbetrieb (Arbeitgeber) tarifgebunden ist?**
 	Der Betrieb muss sich an den Tarif halten und die Ausbildungsvergütung im Tarif auszahlen. 
-	Wenn der Tarif nicht 
+	Wenn der Tarif nicht
 	
-9. 
+## Aufgabe 6
+9. **Der Maurerauszubildende Müller wurde für nächste Woche Mittwoch zur schriftlichen Abschlussprüfung eingeladen. Erklären Sie die Neuregelung in Hinblick auf eine Freistellung für den erwachsenen Auszubildenden.
+   
+   Für den Maurerauszubildenden Müller könnte die Neuregelung bedeuten, dass er das Recht hat,
+   für seine schriftliche Abschlussprüfung von der Arbeitsstelle freigestellt zu werden. Dadurch
+   hätte er die Möglichkeit, sich auf die Prüfung vorzubereiten, ohne sich um Arbeitsverpflichtungen kümmern zu müssen. Es ist jedoch wichtig zu beachten, dass solche Regelungen je nach Unternehmen, Berufsausbildungsgesetz oder regionalen Bestimmungen variieren können. Ein Antrag auf Freistellung sollte erstellt werden
+
+## Aufgabe 7
+
+10. Mit der Novellierung des Berufsbildungsgesetzes hat der Gesetzgeber eine
+    Mindestausbildungsvergütung eingeführt. Warum ist diese staatlich verordnete
+    Mindestausbildungsvergütung wichtig?
+
+
+
+
 

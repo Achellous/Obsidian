@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBS/Sozialkunde/Bedürfnisse - Bedarf - Nachfrage.md",
+                "file": "Prüfungsvorbereitung-Teil 1/AP1/Inhalte IT-Sicherheit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBS/Sozialkunde/Bedürfnisse - Bedarf - Nachfrage.md",
+                "file": "Prüfungsvorbereitung-Teil 1/AP1/Inhalte IT-Sicherheit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBS/Sozialkunde/Bedürfnisse - Bedarf - Nachfrage.md",
+                "file": "Prüfungsvorbereitung-Teil 1/AP1/Inhalte IT-Sicherheit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBS/Sozialkunde/Bedürfnisse - Bedarf - Nachfrage.md"
+                "file": "Prüfungsvorbereitung-Teil 1/AP1/Inhalte IT-Sicherheit.md"
               }
             }
           }
@@ -146,19 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38f16d79a6975eb8",
+  "active": "222cd49819a4209e",
   "lastOpenFiles": [
+    "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/Schutzziele.md",
+    "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/WLAN/MAC-Filter (Media Access Control).md",
+    "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/WLAN/SSID.md",
+    "CBS/Sozialkunde/Bedürfnisse - Bedarf - Nachfrage.md",
     "CBS/Sozialkunde/Werbung.md",
     "CBS/Sozialkunde/Themen der Klassenarbeit 11.12.2023.md",
     "CBS/Sozialkunde/Mutterschutz.md",
     "CBS/Sozialkunde/Besitz und Eigentum.md",
     "CBS/Sozialkunde/Berufsbildungsgesetz.md",
-    "CBS/Sozialkunde/Bedürfnisse - Bedarf - Nachfrage.md",
     "CBS/Lernfeld 9/Bilder/switch_logik.png",
     "CBS/Lernfeld 9/Bilder/modi_uebersicht_router.png",
-    "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/WLAN/SSID.md",
-    "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/WLAN/MAC-Filter (Media Access Control).md",
-    "Prüfungsvorbereitung-Teil 1/AP1/IT-Sicherheit/Schutzziele.md",
     "Prüfungsvorbereitung-Teil 1/Protokolle/Grunddateneinheiten.md",
     "Prüfungsvorbereitung-Teil 1/Protokolle/Protokolle.md",
     "Prüfungsvorbereitung-Teil 1/Protokolle/UDP.md",
